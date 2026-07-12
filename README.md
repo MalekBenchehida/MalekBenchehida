@@ -1,4 +1,4 @@
-div align="center">
+<div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A855F7&center=true&vCenter=true&width=940&lines=Hey%2C+I'm+Malek+Benchehida+%F0%9F%91%8B;Software+Engineer;CS+Student+%7C+Full+Stack+Dev;Building+Cool+Stuff+on+the+Internet" alt="Typing SVG" />
 </div>
 
@@ -7,7 +7,6 @@ div align="center">
   [![Portfolio](https://img.shields.io/badge/Portfolio-A855F7?style=for-the-badge&logo=google-chrome&logoColor=white)](https://malekbenchehida.github.io)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malekbenchehida)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benchehidam@yahoo.com)
-  [![Phone](https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+17086911663)
   
 </div>
 
