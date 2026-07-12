@@ -51,12 +51,14 @@ const malek = {
 - Migrating performance-critical firmware to Rust for memory safety & thread safety
 - Developed ECU-to-sensor communication interfaces over CAN Bus protocol
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=MalekBenchehida&repo=sae-formula-electric&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MalekBenchehida/sae-formula-electric)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=malekbenchehida&repo=sae-formula-electric&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/malekbenchehida/sae-formula-electric)
 
 **Personal Portfolio & Cyber Briefing Dashboard** | HTML/CSS/JS/GitHub Actions
 - Developed and deployed a responsive personal portfolio website hosted via GitHub Pages
 - Integrated a live Cyber Briefing dashboard aggregating cybersecurity news with automated daily refreshes
 - Configured CI/CD automated refreshes using continuous integration pipelines via GitHub Actions
+
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=malekbenchehida&repo=VulnWire&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/malekbenchehida/VulnWire)
 
 **Reaction-Time Arena** | Hardware/Embedded Systems/I2C/C++
 - Built a multiplayer hardware system utilizing three microcontrollers communicating via I2C protocol
@@ -66,7 +68,7 @@ const malek = {
 - Built decentralized P2P crypto wallet with BIP39 key generation
 - Implemented MFA & encryption for secure asset management
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=MalekBenchehida&repo=banking-app&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/MalekBenchehida/banking-app)
+[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=malekbenchehida&repo=Moblie_Banking&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/malekbenchehida/Moblie_Banking)
 
 </div>
 
