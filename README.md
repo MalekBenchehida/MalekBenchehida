@@ -51,8 +51,6 @@ const malek = {
 - Migrating performance-critical firmware to Rust for memory safety & thread safety
 - Developed ECU-to-sensor communication interfaces over CAN Bus protocol
 
-[![Repo](https://github-readme-stats.vercel.app/api/pin/?username=malekbenchehida&repo=sae-formula-electric&theme=radical&hide_border=true&bg_color=0D1117)](https://github.com/malekbenchehida/sae-formula-electric)
-
 **Personal Portfolio & Cyber Briefing Dashboard** | HTML/CSS/JS/GitHub Actions
 - Developed and deployed a responsive personal portfolio website hosted via GitHub Pages
 - Integrated a live Cyber Briefing dashboard aggregating cybersecurity news with automated daily refreshes
