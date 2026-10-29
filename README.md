@@ -8,7 +8,7 @@
   [![SWE Resume](https://img.shields.io/badge/Resume-SWE_PDF-00F0FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=black)](https://malekbenchehida.github.io/resume_swe.pdf)
   [![CE Resume](https://img.shields.io/badge/Resume-CE_PDF-FF9F1C?style=for-the-badge&logo=micro-editor&logoColor=black)](https://malekbenchehida.github.io/resume_ce.pdf)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/malekbenchehida)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immalekbenchehid@gmail.com)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:immalekbenchehida@gmail.com)
   
 </div>
 
